@@ -1,2 +1,2 @@
 # about-minecraft
-sup
+Play minecraft in about blank in your browser
